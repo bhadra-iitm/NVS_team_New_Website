@@ -19,4 +19,7 @@ main:
   - name: Contact
     url: contact
     weight: 60
+    -name: Trial 2
+    url: #my_section
+    weight: 70
 
