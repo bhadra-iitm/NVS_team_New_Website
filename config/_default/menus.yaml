@@ -19,3 +19,6 @@ main:
   - name: Contact
     url: contact
     weight: 60
+  name = "Projects"  # Title of the link.
+  url = "Projects/"  # Widget Page folder name.
+  weight = 2  # Position of the link in the navigation bar.
